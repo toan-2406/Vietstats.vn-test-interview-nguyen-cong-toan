@@ -1,0 +1,7 @@
+{
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "home": "Home",
+  "invalid_credentials": "Invalid credentials"
+}

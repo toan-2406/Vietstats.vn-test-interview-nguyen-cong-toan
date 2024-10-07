@@ -1,0 +1,7 @@
+{
+  "login": "로그인",
+  "username": "사용자 이름",
+  "password": "비밀번호",
+  "home": "홈",
+  "invalid_credentials": "잘못된 자격 증명"
+}

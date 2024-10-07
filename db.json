@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "toandev2k",
+      "password": "Toan@123"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "title": "Item 1",
+      "description": "Description for item 1"
+    },
+    {
+      "id": 2,
+      "title": "Item 2",
+      "description": "Description for item 2"
+    }
+  ]
+}
