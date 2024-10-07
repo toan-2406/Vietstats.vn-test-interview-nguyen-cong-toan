@@ -2,11 +2,6 @@
 
 import { useDictionary } from '@/hooks/useDictionary';
 
-interface DataItem {
-  id: number;
-  title: string;
-  description: string;
-}
 
 export default function Home({ params: { lang } }: { params: { lang: string } }) {
   const dict = useDictionary(lang);
